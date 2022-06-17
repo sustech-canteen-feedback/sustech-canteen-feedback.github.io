@@ -1,6 +1,11 @@
 body{
-    font-size: 12pt;
+    font-size: 18pt;
     color: #000000;
+    font-family: 仿宋;
+}
+
+p{
+    text-indent: 40px;
 }
 
 td {
@@ -14,7 +19,7 @@ table.center {
   }
 
 #wrapper {
-    width: 40%;     /* specify a width! */
+    width: 60%;     /* specify a width! */
     margin: 0 auto; /* center */
   }
 
