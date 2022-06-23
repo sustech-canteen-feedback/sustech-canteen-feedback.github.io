@@ -17,6 +17,11 @@ table.center {
     margin-right: auto;
   }
 
+img{
+   max-width: 60%;
+}
+
+
 #wrapper {
     width: 60%;     /* specify a width! */
     margin: 0 auto; /* center */
@@ -27,5 +32,9 @@ table.center {
         width: 90%;     /* specify a width! */
         margin: 0 auto; /* center */
       }
+    
+    img{
+        max-width: 90%;
+    }
     
 }
